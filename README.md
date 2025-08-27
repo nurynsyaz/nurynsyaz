@@ -1,5 +1,20 @@
 # 💫 About Me:
-# Hi, I'm Nurin Syazwani 👋<br><br>🎓 Final year Bachelor of Computer Science (Software Engineering) with Honours student at Universiti Malaysia Terengganu (UMT) <br>📚 Currently in my 6th semester – my last before internship  <br>💻 Intermediate in Java & MySQL<br><br>🌟 **Actively seeking internship opportunities**<br>📅 Internship period: **4 August 2025 – 17 January 2026**  <br>📍 Preferred locations: **Kuala Lumpur, Putrajaya, Cyberjaya**<br><br>🔭 I’m currently working on: Project Performance Management System (PPMS) – my Final Year Project  <br>🌱 I’m currently learning: Web application development using JSP, Servlets & Bootstrap  <br>👯 I’m looking to collaborate on: Java-based academic or mini-projects  <br>🤔 I’m looking for help with: Improving code quality and backend logic structuring  <br>📫 How to reach me: nurin0508@gmail | https://www.linkedin.com/in/nurinsyazwani<br>😄 Pronouns: she/her 
+# Hi, I'm Nurin Syazwani 👋<br><br>
+🎓 Bachelor of Computer Science (Software Engineering) with Honours graduate from Universiti Malaysia Terengganu (UMT) <br>💻 Strong foundation in Java, MySQL, PHP (backend), and Flutter (frontend) <br><br>
+
+🌟 Currently undergoing internship as Junior Developer at ME-Tech Solutions Sdn. Bhd. <br>📅 Internship period: 4 August 2025 – 17 January 2026 <br>📍 Internship location: Kuala Lumpur <br><br>
+
+🚀 Actively seeking a permanent position starting April 2026 as a:
+
+Quality Assurance (QA) Analyst – ensuring software meets quality standards through testing & validation
+
+Business Analyst (BA) – bridging business needs with technical solutions to improve system efficiency <br><br>
+
+
+🌱 I’m currently learning: Software testing practices, documentation standards, and requirement analysis alongside my technical skills in PHP & Flutter <br>👯 I’m looking to collaborate on: Projects involving software testing, process improvement, or requirement gathering <br>🤔 I’m looking for help with: Sharpening QA methodologies, test automation, and BA frameworks <br><br>
+
+📫 How to reach me: nurin0508@gmail | LinkedIn <br>😄 Pronouns: she/her
+
 
 
 ## 🌐 Socials:
